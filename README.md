@@ -4,8 +4,15 @@ Original design here : [runoffgroove.com/tonemender.html](http://runoffgroove.co
 
 The Tonemender is a very flexible, yet simple clean boost with a 3-knob tonestack that allows the user to re-create the classic Fender, Marshall and Vox responses.
 
-This repository shares an **SMD version** of the pedal's PCB.
-This is the original design, only the PCB layout changed to make it smaller and easier to fit in small pedal's enclosures.
+<table>
+	<tbody>
+		<tr>
+      <th align="center"><br>This repository shares an SMD version of the pedal's PCB.<br>
+This is the original design, only the PCB layout changed <br> to make it smaller and easier to fit in small pedal's enclosures.<br></th>
+			<th align="center"><img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/PCB%203D%20render.jpg" alt="" width=300></th>
+		</tr>
+	</tbody>
+</table>
 
 ### Pictures :
 
