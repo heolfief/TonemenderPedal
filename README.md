@@ -8,17 +8,10 @@ The Tonemender is a very flexible, yet simple clean boost with a 3-knob tonestac
 		<img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/full.jpg" alt="" width=700>
 </p>
 
-<table>
-	<tbody>
-		<tr>
-      <th align="center"><br>This repository shares an SMD version of the pedal's PCB.<br>
-This is the original design, only the PCB layout changed <br> to make it smaller and easier to fit in small pedal's enclosures.<br></th>
-			<th align="center"><img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/PCB%203D%20render.jpg" alt="" width=300></th>
-		</tr>
-	</tbody>
-</table>
+This repository shares an SMD version of the pedal's PCB. This is the original design, only the PCB layout changed <br> to make it smaller and easier to fit in small pedal's enclosures. 
 
-<p align="center">
+
+<p align="left">
 		<img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/front.jpg" alt="" width=230> <img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/inside.jpg" alt="" width=500>
 </p>
 
