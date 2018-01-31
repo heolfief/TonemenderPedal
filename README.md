@@ -4,6 +4,10 @@ Original design here : [runoffgroove.com/tonemender.html](http://runoffgroove.co
 
 The Tonemender is a very flexible, yet simple clean boost with a 3-knob tonestack that allows the user to re-create the classic Fender, Marshall and Vox responses.
 
+<p align="center">
+		<img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/full.jpg" alt="" width=700>
+</p>
+
 <table>
 	<tbody>
 		<tr>
@@ -14,7 +18,9 @@ This is the original design, only the PCB layout changed <br> to make it smaller
 	</tbody>
 </table>
 
-### Pictures :
+<p align="center">
+		<img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/front.jpg" alt="" width=230> <img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/inside.jpg" alt="" width=500>
+</p>
 
 
 ### Listen to it : 
