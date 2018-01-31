@@ -12,7 +12,7 @@ This repository shares an SMD version of the pedal's PCB. This is the original d
 
 
 <p align="left">
-		<img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/front.jpg" alt="" width=230> <img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/inside.jpg" alt="" width=500>
+		<img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/front.jpg" alt="" width=250> <img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/inside.jpg" alt="" width=600>
 </p>
 
 
