@@ -25,3 +25,6 @@ This repository shares an SMD version of the pedal's PCB. This is the original d
 
 ### License :
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/3.0/) Tonemender by runoffgroove.com is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+<hr>
+PCBWAYS offers non-profit engineering projects sponsorship for students : https://www.pcbway.com/project/sponsor/
