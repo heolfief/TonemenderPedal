@@ -4,6 +4,8 @@ Original design here : [runoffgroove.com/tonemender.html](http://runoffgroove.co
 
 The Tonemender is a very flexible, yet simple clean boost with a 3-knob tonestack that allows the user to re-create the classic Fender, Marshall and Vox responses.
 
+Gerbers can be found in the Hardware folder.
+
 <p align="center">
 		<img src="https://github.com/heolfief/TonemenderPedal/blob/master/Resources/full.jpg" alt="" width=700>
 </p>
